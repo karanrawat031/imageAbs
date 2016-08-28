@@ -1,0 +1,24 @@
+{
+  "name": "imageabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karanrawat031",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dotenv": "^2.0.0",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "google-images": "^1.0.0",
+    "https": "^1.0.0",
+    "image-search": "0.0.1",
+    "mongoose": "^4.5.10",
+    "node-bing-api": "^2.4.1",
+    "request": "^2.74.0"
+  }
+}
